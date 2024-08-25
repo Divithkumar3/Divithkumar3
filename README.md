@@ -15,7 +15,7 @@ Languages I Know:
 - MongoDB <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo"/>
 - React Native <img width="24" height="24" src="https://img.icons8.com/color/48/react-native.png" alt="external-react-native-soleicons-fill-vol-1-others-amoghdesign"/>
 
-Leetcode stats:
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Divithkumar11_?theme=dark&font=STIX%20Two%20Text&ext=contest)
 <!---
 Divithkumar3/Divithkumar3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
