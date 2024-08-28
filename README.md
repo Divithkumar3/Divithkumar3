@@ -1,10 +1,10 @@
-- 👋 Hi, I’m Divithkumar
-- 👀 I’m interested to work in software industries...
-- 🌱 I’m currently in the final year...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - dividivithkumar@gmail.com
+# 👋 Hi, I’m Divithkumar
+# 👀 I’m interested to work in software industries...
+# 🌱 I’m currently in the final year...
+# 💞️ I’m looking to collaborate on ...
+# 📫 How to reach me - dividivithkumar@gmail.com
 
-Languages I Know:
+# Languages I learnt:
 - HTML5 <img width="24" height="24" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 - CSS3 <img width="24" height="24" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 - JavaScript <img width="24" height="24" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
@@ -18,7 +18,7 @@ Languages I Know:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Divithkumar11_?theme=dark&font=STIX%20Two%20Text&ext=contest)
 
-View my portfolio:
+# View my portfolio:
 http://divithkumar.great-site.net
 <!---
 Divithkumar3/Divithkumar3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
