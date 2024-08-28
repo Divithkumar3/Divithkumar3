@@ -23,7 +23,6 @@ http://divithkumar.great-site.net
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divithkumar3&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divithkumar3&layout=compact)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Divithkumar3&theme=algolia)
 ![Visitor Count](https://komarev.com/ghpvc/?username=Divithkumar3&color=blue)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
