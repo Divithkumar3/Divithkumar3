@@ -21,8 +21,9 @@
 # View my portfolio:
 http://divithkumar.great-site.net
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divithkumar3&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divithkumar3&layout=compact)
+
 
 <!---
 Divithkumar3/Divithkumar3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
