@@ -23,6 +23,9 @@ http://divithkumar.great-site.net
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divithkumar3&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divithkumar3&layout=compact)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Divithkumar3&theme=algolia)
+![Snake animation](https://github.com/Divithkumar3/Divithkumar3/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
